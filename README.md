@@ -1,2 +1,2 @@
-# mpdist-transform
-MPDist Transform example codes and accuracy results
+# MPTransform
+MPDist Transformer example codes and accuracy results
